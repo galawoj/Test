@@ -31,7 +31,7 @@ function play() {
       } else if (userNumber == 7) {
         message = "Chyba jednak Dawid bardziej przyłożył się do zaparzania niż na 7"; 
       } else if (userNumber == 8) {
-        message = "Jesteś pewny że 9? Może jednak dasz wyższą ocenę?"; 
+        message = "Jesteś pewny że 8? Może jednak dasz wyższą ocenę?"; 
     } else if (userNumber == 9) {
         message = "Prawie trafiłeś w prawidłową odpowiedź :)"; 
 }
